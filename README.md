@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Lev. I'm 33 years old, from St.Petersburg.
+
+My technology stack: 
+``` 
+- Python 
+- Django 
+- Django REST Framework
+- SQL
+- Docker and docker-compose
+- Git
+- Github.Actions
+- Nginx
+- Unittest
+- Linux
+```
+
+My contact: [Telegram](https://t.me/Leva33), [E-mail](mailto:Leoohard@yandex.ru)
